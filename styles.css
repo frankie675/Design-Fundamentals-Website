@@ -24,7 +24,7 @@ header {
 }
 .header-text {
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     display: flex;
@@ -39,7 +39,11 @@ header {
     flex-direction: column;
     justify-content: center;
     align-content: center;
+    font-size:15px;
 }
+
+
+
 
 /* Reference: https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08 */
 
