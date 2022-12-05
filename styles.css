@@ -41,6 +41,14 @@ header {
   align-content: center;
 }
 
+.open-para {
+  text-align: center;
+  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
 .footer-copyright-text {
     display: flex;
     flex-wrap: wrap;
@@ -131,6 +139,7 @@ header {
 .topnav {
   overflow: hidden;
   background-color: rgb(255, 255, 255);
+  color: #000000;
   font-family:poppins,sans-serif;
   position: fixed;
 
