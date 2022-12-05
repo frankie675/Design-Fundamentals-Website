@@ -38,13 +38,14 @@ header {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  font-size: 30px;
+  font-size: 35px;
   align-content: center;
 }
 
 .open-para {
   text-align: center;
-  padding: 30px;
+  font-size: 25px;
+  padding: 50px;
   display: flex;
   flex-wrap: wrap;
   align-content: center;
@@ -77,9 +78,6 @@ header {
   align-content: flex-end;
   text-align: center;
 }
-
-
-
 
 /* Reference: https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08 */
 
