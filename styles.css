@@ -223,10 +223,10 @@ header {
 
   .hover-text {
     font-family: poppins, sans-serif;
-    font-weight: 400;
+    font-weight: 100;
     font-style: normal;
     color: white;
-    font-size: 20px;
+    font-size: 10px;
     position: absolute;
     top: 50%;
     left: 50%;
