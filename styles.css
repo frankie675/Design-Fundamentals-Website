@@ -286,8 +286,25 @@ font-family:poppins,sans-serif;
     transition: .5s ease;
     background-color: #00a3e4;
   }
-  
+
   .container:hover .overlay {
+    opacity: 1;
+  }
+
+  .overlay2 {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #EA4C89;
+  }
+  
+  .container:hover .overlay2 {
     opacity: 1;
   }
 
