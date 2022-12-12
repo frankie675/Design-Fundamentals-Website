@@ -67,7 +67,7 @@ header {
   justify-content: center;
   align-content: center;
   text-align: center;
-  padding: 20px;
+  padding: 20px; 
 }
 
 .row {
@@ -137,7 +137,7 @@ header {
 
 .topnav {
   overflow: hidden;
-  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, 0.598);
   color: #000000;
   font-family:poppins,sans-serif;
   position: fixed;
@@ -156,7 +156,7 @@ header {
 }
 
 .topnav a:hover {
-  background-color: #0086b4;
+  background-color: rgba(0, 163, 228, 0.215);
   color: black;
 }
 
