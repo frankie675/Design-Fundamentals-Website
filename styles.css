@@ -44,11 +44,12 @@ header {
 
 .open-para {
   text-align: center;
-  font-size: 25px;
-  padding: 50px;
-  display: flex;
-  flex-wrap: wrap;
-  align-content: center;
+    font-size: 25px;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
 }
 
 .footer-copyright-text {
