@@ -156,12 +156,12 @@ header {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #0086b4;
   color: black;
 }
 
 .topnav a.active {
-  background-color: #000000;
+  background-color: #00a3e4;
   color: white;
 }
 
